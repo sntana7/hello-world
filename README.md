@@ -1,5 +1,4 @@
-# hello-world
-My first repository.
+# Hello World!!
 
 Meu nome é Mikaela, tenho 22 anos e atualmente moro em Massachusetts - USA.
 
@@ -10,3 +9,6 @@ Sou formada em Sistemas de Informação e possuo 4 anos de experiência na área
 Apaixonada por música, livros e jogos. E amo filosofar sobre a vida e tudo que há a nossa volta.
 
 "Você constrói seu patrimônio com trabalho, mas evolui com conhecimento."
+
+Caso você tenha algum feedback e/ou sugestão, por favor, me deixe saber por aqui: mikinha_san@icloud.com
+
