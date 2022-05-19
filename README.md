@@ -1,4 +1,4 @@
-# Hello World!!
+# <h1 align="center"> Hello World!! </h1>
 
 Meu nome é Mikaela, tenho 22 anos e atualmente moro em Massachusetts - USA.
 
@@ -12,3 +12,4 @@ Apaixonada por música, livros e jogos. E amo filosofar sobre a vida e tudo que 
 
 Caso você tenha algum feedback e/ou sugestão, por favor, me deixe saber por aqui: mikinha_san@icloud.com
 
+> :construction: Projeto em construção :construction:
